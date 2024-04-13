@@ -1,0 +1,208 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "2024-02-20T10:34:00.070Z",
+      "cityName": "Siurgus Donigala",
+      "country": "Italy",
+      "position": {
+        "lat": "39.60975559964171",
+        "lng": "9.158488487201813"
+      },
+      "notes": "",
+      "date": "2024-02-20T10:32:40.905Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:14:02.400Z",
+      "cityName": "Goure",
+      "countryName": "Niger (the)",
+      "position": {
+        "lat": "15.693979068864376",
+        "lng": "10.534815380966174"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:13:50.752Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:14:03.885Z",
+      "cityName": "Goure",
+      "countryName": "Niger (the)",
+      "position": {
+        "lat": "15.693979068864376",
+        "lng": "10.534815380966174"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:13:50.752Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:14:06.158Z",
+      "cityName": "Goure",
+      "countryName": "Niger (the)",
+      "position": {
+        "lat": "15.693979068864376",
+        "lng": "10.534815380966174"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:13:50.752Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:14:12.727Z",
+      "cityName": "Goure",
+      "countryName": "Niger (the)",
+      "position": {
+        "lat": "15.693979068864376",
+        "lng": "10.534815380966174"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:13:50.752Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:14:13.448Z",
+      "cityName": "Goure",
+      "countryName": "Niger (the)",
+      "position": {
+        "lat": "15.693979068864376",
+        "lng": "10.534815380966174"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:13:50.752Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:18:17.314Z",
+      "cityName": "Sant'Agata Feltria",
+      "countryName": "Italy",
+      "position": {
+        "lat": "43.8460650646459",
+        "lng": "12.20146966528686"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:18:15.262Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:18:48.252Z",
+      "cityName": "Zeliv",
+      "countryName": "Czechia",
+      "position": {
+        "lat": "49.53581083501336",
+        "lng": "15.253481775050062"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:18:20.497Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:18:49.197Z",
+      "cityName": "Zeliv",
+      "countryName": "Czechia",
+      "position": {
+        "lat": "49.53581083501336",
+        "lng": "15.253481775050062"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:18:20.497Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:18:50.397Z",
+      "cityName": "Smartno pri Litiji",
+      "countryName": "Slovenia",
+      "position": {
+        "lat": "46.02367463058849",
+        "lng": "14.772747124136533"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:18:20.497Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:19:28.717Z",
+      "cityName": "Spoleto",
+      "countryName": "Italy",
+      "position": {
+        "lat": "42.64600951613763",
+        "lng": "12.773487764115805"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:19:27.528Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T07:20:03.442Z",
+      "cityName": "Irdning",
+      "countryName": "Austria",
+      "position": {
+        "lat": "47.33454375641955",
+        "lng": "14.177999292869886"
+      },
+      "notes": "",
+      "date": "2024-03-13T07:20:01.654Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T10:44:24.792Z",
+      "cityName": "Argenta",
+      "countryName": "Italy",
+      "position": {
+        "lat": "44.55498957780204",
+        "lng": "12.113466880851638"
+      },
+      "notes": "",
+      "date": "2024-03-13T10:43:55.361Z",
+      "emoji": ""
+    },
+    {
+      "id": "2024-03-13T10:44:33.634Z",
+      "cityName": "Sebkha Sidi El Hani",
+      "countryName": "Tunisia",
+      "position": {
+        "lat": "35.54758006358771",
+        "lng": "10.395477834107238"
+      },
+      "notes": "",
+      "date": "2024-03-13T10:44:32.032Z",
+      "emoji": ""
+    }
+  ]
+}
